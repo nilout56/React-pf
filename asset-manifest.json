@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-pf/static/css/main.ec9bf0bb.chunk.css",
+    "main.js": "/React-pf/static/js/main.1a29d2aa.chunk.js",
+    "main.js.map": "/React-pf/static/js/main.1a29d2aa.chunk.js.map",
+    "runtime-main.js": "/React-pf/static/js/runtime-main.de64e9d6.js",
+    "runtime-main.js.map": "/React-pf/static/js/runtime-main.de64e9d6.js.map",
+    "static/js/2.df8fa722.chunk.js": "/React-pf/static/js/2.df8fa722.chunk.js",
+    "static/js/2.df8fa722.chunk.js.map": "/React-pf/static/js/2.df8fa722.chunk.js.map",
+    "index.html": "/React-pf/index.html",
+    "precache-manifest.8a50008ad493911ea72bba466b99a9e4.js": "/React-pf/precache-manifest.8a50008ad493911ea72bba466b99a9e4.js",
+    "service-worker.js": "/React-pf/service-worker.js",
+    "static/css/main.ec9bf0bb.chunk.css.map": "/React-pf/static/css/main.ec9bf0bb.chunk.css.map",
+    "static/js/2.df8fa722.chunk.js.LICENSE.txt": "/React-pf/static/js/2.df8fa722.chunk.js.LICENSE.txt",
+    "static/media/me.png": "/React-pf/static/media/me.cdd50559.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de64e9d6.js",
+    "static/js/2.df8fa722.chunk.js",
+    "static/css/main.ec9bf0bb.chunk.css",
+    "static/js/main.1a29d2aa.chunk.js"
+  ]
+}
